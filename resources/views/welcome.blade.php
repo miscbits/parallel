@@ -71,7 +71,7 @@
     </head>
     <body>
         <div class="flex-center full-height">
-            <h1>Parllel</h1>
+            <h1>Parallel</h1>
             <p>A New App to Try New Things</p>
         </div>
     </body>
